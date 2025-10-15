@@ -14,7 +14,7 @@
 ## GitHub Profile
 You can view my personalised GitHub profile [here](https://github.com/Joanne1228-coder)
 
-## Connect with Me
+## Contact Me
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/joanne-lim-zi-xuan-012298272/)
 - Follow me on [Instagram](https://www.instagram.com/lzx_1228/)
 - Send me an [Email](joannelimzixuan@gmail.com)
