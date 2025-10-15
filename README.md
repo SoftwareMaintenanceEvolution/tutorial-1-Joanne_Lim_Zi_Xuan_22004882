@@ -5,9 +5,9 @@
 
 🏆 My aim of taking this course is to gain insights into modern maintenance practices and obtain hands-on experience in levelling up software performance and ensuring the sustainability of the system.
 
-🚀 I look forward to collaborating with peers on open-source projects, learning clean code principles, and implementing practical approaches to handle real-world software challenges.
+🚀 I look forward to collaborating with my peers on open-source projects, learning clean code principles, and implementing practical approaches to handle real-world software challenges.
 
-⚡ Fun fact: I enjoy playing around with UI features, solving user pain points and discovering backend development tools which enable software to be more stable, accountable and maintainable! My hobbies are doing yoga, exercise and watch movies.
+⚡ Fun fact: I enjoy playing around with UI features, solving user pain points and discovering backend development tools which enable software to be more stable, accountable and maintainable! My hobbies are practise yoga, exercise and watch movies.
 
 <img width="250" height="500" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/02a47fd5-a454-40ab-a6ee-dc8915929437" />
 
